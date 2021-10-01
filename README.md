@@ -2,6 +2,8 @@
 my voice assets lol.
 I'm gonna be using these in an fnf mod (maybe, idk how to code and im always busy with things).
 
+This only includes the dwp files, for anything else please use the mega link
+
 If you want to use them for any purpose PLEASE CREDIT ME. Any one of these is sufficient:
 
 * Twitter: @SPLITEwastaken
