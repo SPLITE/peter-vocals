@@ -1,0 +1,5 @@
+just take two octives off or whatever in the .dwp
+also the .dwp isn't monolithic u will need the folder in the same dir
+
+
+-SPLITE/Peter
